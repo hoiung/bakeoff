@@ -1,5 +1,7 @@
 # bakeoff
 
+> **Abandoned (July 2026).** This bake-off is not happening. Anthropic changed the terms so the Claude Max 20x plan no longer powers non-Anthropic agents, which means every rival harness would have to run on the API, pay as you go. I costed the full run at around £10,000, which is not a budget I am putting into a fun comparison. The methodology and structure below stay as a record of the plan. Writeup: https://hoiboy.uk/posts/bakeoff-teaser-battle-of-the-ai-harnesses/
+
 > Holding repo. Methodology + comparison patterns + capture-stack templates published here AFTER the bake-off completes. Trading code stays private. Only the structure is open.
 
 ## What this will be
@@ -40,9 +42,9 @@ After the bake-off + the blog series complete, this repo gets the **structure** 
 
 Documented at [hoiboy.uk](https://hoiboy.uk). Series goes live as one arc after all 10 runs complete (no per-run instalments).
 
-## ETA
+## Status
 
-A few weeks. The bake-off itself is the long pole; the structure-extraction is mechanical once it's done.
+Abandoned (see the note at the top). Nothing further will be published here.
 
 ## License
 
